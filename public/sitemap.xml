@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://mycollegeadda.com/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/about-us</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/faq</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/account/login</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/notes</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/electronics</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/flatmates</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/carpool</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/sell</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/account/forgot-password</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/account/create</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/listingpolicy</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/privacypolicy</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/termsofservice</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/notes/vfdf~1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/notes/college_id/GLA%20University</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/electronics/qwrty~1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/electronics/college_id/GLA%20University</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/flatmates/college_id/GLA%20University</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/carpool/gdbdf~1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/carpool/college_id/GLA%20University</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/notes/user_id/2</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/notes/user_type/Individual</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/electronics/user_id/2</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/electronics/user_type/Individual</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/carpool/user_id/2</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://mycollegeadda.com/carpool/user_type/Individual</loc>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>

@@ -1,0 +1,160 @@
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background-color: #fff;
+    border-left: 1px solid #ccc;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #8C8C8C;
+    border: solid 1px #8C8C8C;
+    border-radius: 7px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #aaa;
+}
+
+.uk-navbar{
+background-color: #000;
+border-radius: 0px;
+z-index: 1000 !important;
+
+}
+
+.homenav .uk-panel{
+background-color: #65c6bb;
+border-radius: 0px;
+border-right: solid 1px #fff; 
+	
+}
+
+.homenav .uk-panel:hover{
+	background-color: #3ABEAF;
+}
+
+.h-navbar .uk-navbar-nav>li:hover>a, .uk-navbar-nav>li>a:focus, .uk-navbar-nav>li.uk-open>a{
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.mca-refiner{
+  border-bottom:solid 1px #ddd;
+  padding-bottom:5px;
+}
+
+.mca-refiner a{
+  color:#1abc9c;
+  font-weight: bold;
+  text-decoration: none;
+}
+.mca-refiner a:hover{
+  border-bottom: solid 2px;
+  padding-bottom: 6px;
+}
+
+.mca-page-title{
+  margin: 0px 0px 2px 0px;
+}
+
+#outer {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.2);
+  margin-bottom: 5%;
+}
+
+#inner {
+  margin-bottom: 0px;
+  display: inline-block;
+}
+
+.four-green .uk-thumbnail{
+  border:none;
+}
+
+.uk-button-white{
+  background-color: #fff;
+  color: #000;
+}
+
+.uk-button-facebook,.uk-button-facebook:hover{
+  background-color: #3B5998;
+  color: #fff;
+  border-radius: 0px;
+}
+
+.uk-button-google,.uk-button-google:hover{
+  background-color: #DC4B39;
+  color: #fff;
+  border-radius: 0px;
+}
+
+.uk-button-mycollegeadda,.uk-button-mycollegeadda:hover{
+  background-color: #1abc9c;
+  color: #fff;
+  border-radius: 0px;
+}
+
+/* Phone landscape and bigger */
+@media (max-width: 480px) {
+  h1,h2{
+  		font-size:15px;
+      font-weight: bold;
+  }
+
+  h3{
+  		font-size:12px;
+      font-weight: bold;
+  }
+
+  #outer{
+      margin-top:-17%;
+  }
+
+  .homenav .tab{
+  	border-bottom: solid 1px #fff;
+  }
+
+  .no-img{
+  margin: 0% 32% !important;
+  }
+
+  .create-alert h1{
+  font-size: 36px !important;
+  }
+}
+
+.no-img{
+  width: 43%;
+  margin: 29% 32%;
+}
+
+footer .uk-block{
+  padding-top: 12px;
+  padding-bottom: 0px;
+}
+
+footer h4{
+  margin-bottom: 0px;
+}
+
+footer ul{
+  padding-top: 4px;
+  margin-top: 4px;
+  color:rgba(255,255,255,0.7);
+}
+
+select.uk-form-large, textarea.uk-form-large, input[type].uk-form-large, input:not([type]).uk-form-large {
+  font-size: inherit;
+}
+
+.create-alert{
+  background-color: #65C6BB;
+}
+
+.create-alert .uk-form input[type="text"],.create-alert .uk-form input[type="email"],.create-alert .uk-form textarea{
+  border-radius: 0px;
+  background-color: #fff;
+}
